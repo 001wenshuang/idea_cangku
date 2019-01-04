@@ -28,6 +28,8 @@ public class MySecurityConfig extends WebSecurityConfigurerAdapter {
     @Override
     protected void configure(HttpSecurity http) throws Exception {
 
+        //midfd
+
         (
                 (HttpSecurity)
                         (
