@@ -22,6 +22,7 @@ public class SpringbootDemoApplicationTests {
 		System.out.println(huojin);
 
 
+
 	}
 
 }
